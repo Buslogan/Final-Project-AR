@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Final Project AR
 
-You can use the [editor on GitHub](https://github.com/Buslogan/Final-Project-AR/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Buslugan buslugan buslugan
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Buslugan na buslugan na
 
-### Markdown
+### Awit Awit
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+wewa
 
 ```markdown
 Syntax highlighted code block
