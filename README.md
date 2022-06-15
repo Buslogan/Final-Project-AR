@@ -2,7 +2,7 @@
 
 Buslugan buslugan buslugan
 
-Buslugan na buslugan na
+Buslugan na buslugan na tara buslugan
 
 ### Awit Awit
 
